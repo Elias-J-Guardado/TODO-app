@@ -1,6 +1,6 @@
 # TODO APP
 
-## Esta aplicación permite crear, completar y eliminar tareas, con almacenamiento en el navegador.
+Esta aplicación permite crear, completar y eliminar tareas, con almacenamiento en el navegador.
 
 ## Objetivo de este proyecto
 
