@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, rgb(60, 80, 100), 
+  rgb(90, 110, 140), rgb(120, 100, 130));
+  color: white;
+  font-family: 'Pixelify Sans', Arial, Helvetica, sans-serif;
+}
+
+#root{
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
