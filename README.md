@@ -41,6 +41,6 @@ Si deseas contactarme, mis redes son las siguientes:
 
 Desde mi portafolio puedes contactarme vía correo electrónico.
 
-##Demo puedes encontrar el deploy de la app funcionando aqui:
+## Demo puedes encontrar el deploy de la app funcionando aqui:
 
 https://elias-j-guardado.github.io/TODO-app/
